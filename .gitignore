@@ -1,0 +1,42 @@
+### Build output ###
+out/
+bin/
+build/
+dist/
+target/
+
+### Compiled class ###
+*.class
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/*
+!.vscode/settings.json
+
+### Archives ###
+*.zip
+*.rar
+*.7z
+
+### OS ###
+.DS_Store
+Thumbs.db
